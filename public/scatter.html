@@ -81,7 +81,7 @@ var tooltip = d3.select("body").append("div")
 var zoom = d3.behavior.zoom();
 
 // load data
-d3.csv("public/tsne.nordstrom.csv", function(error, data) {
+d3.csv("public/tsne.nordstrom.1000.csv", function(error, data) {
 
   // change string (from CSV) into number format
   data.forEach(function(d) {
