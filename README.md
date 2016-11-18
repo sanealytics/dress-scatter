@@ -16,4 +16,4 @@ This is a quick and dirty way I visualize the embeddings. Feel free to make a pu
 
 I will try to write a blog post about this.
 
-![Screenshot](public/tsne-nordstrom-1000.png)
+![Screenshot](public/tsne-nordstrom-1000.jpeg)
